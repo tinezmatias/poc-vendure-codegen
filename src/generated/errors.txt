@@ -1,0 +1,1 @@
+AggregateError: ENOENT: no such file or directory, open '/Users/matiasmartinez/Documents/hd/winefor/winefor/packages/web-client-generator/src/codegen/utils/loaders/Users/matiasmartinez/Documents/hd/winefor/winefor/packages/web-client-generator/src/generated/schemas/shop-schema.graphql'
